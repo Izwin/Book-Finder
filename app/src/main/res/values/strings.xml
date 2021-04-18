@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookService</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="page_count">Page Count: </string>
+</resources>
